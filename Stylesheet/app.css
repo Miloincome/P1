@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'StarWars';
+    src: url('StarJediHollow.woff2') format('woff2'),
+        url('StarJediHollow.woff') format('woff'),
+        url('StarJediHollow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'StarWars2';
+    src: url('StarJedi.woff2') format('woff2'),
+        url('StarJedi.woff') format('woff'),
+        url('StarJedi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+nav{
+    font-family: StarWars2;
+    border:groove 1px gray;
+    text-shadow: 0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod;
+}
+nav a{
+    color: goldenrod;
+}
+i{
+    color: white;
+    text-shadow: 0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod,0px 1px goldenrod;
+}
+
+
+body{
+    background-image: url(1801916.jpg);
+}
+section#stim{
+    background-color: dimgray;
+    color: white;
+    text-align: center;
+}
+.btn{
+    color: white;
+    border: solid 1px white;
+}
+.form-control.me-2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.dropdown-item button{
+    font-family: "StarWars2";
+}
+#outcome{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nav-item{
+    color:white;
+}
+#bankHeader{
+    color:white;
+}
+#bankTools{
+    color:white;
+}
+#accountCreator{
+    color:white;
+}
