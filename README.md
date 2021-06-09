@@ -34,7 +34,7 @@ Customers can
 
 To-do list:
 * Fix a few bugs that has the front end pointing to the wrong endpoint
-* Add a statistics page for Professional to view
+*  Fix Accept and Deny Bank Accounts.
 
 ## Getting Started
    
