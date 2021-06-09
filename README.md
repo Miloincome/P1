@@ -31,9 +31,11 @@ To-do list:
 *  Fix Accept and Deny Bank Accounts.
 
 ## Getting Started
-  
+ Clone the repository -> https://github.com/Miloincome/P1.git
+ Use the SQLHelp.txt file to use the scripts to set up your database.
+ 
 
-> Compile and run the java code for the server test DB connection  
-> ./gradlew build in Vaccine_Tracker folder
-- run in a IDE or Gradle 
+## Usage
+
+> Run the .jar file or through an IDE for the backend and run the ng serve and go to localhost to begin the application. You can login as a Patient to see your vaccine status and generate a QR code to show your status. You are also able to scan a QR code on your computer to see the status of the holder of that Qr code. You then have to logout to register as a patient to connect your login information and your medical status. Login into professional to add a shot date to a patient, logout after that.
 
