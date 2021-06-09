@@ -21,10 +21,12 @@ Star Wars themed bank application that allows you to create and manage accounts.
 ## Features
 
 List of features ready
-Customers and Employees can log in/out.
-
-Customers can transfer money from different accounts.
-Users can Register for an Account.
+*Customers and Employees can log in/out.
+*Customers can transfer money from different accounts.
+*Users can Register for an Account.
+*Employees can add more employees
+*Employees can view customer accounts
+*Employees can view all customer accounts and an  organized fashion.
 
 To-do list:
 * Fix a few bugs that has the front end pointing to the wrong endpoint
