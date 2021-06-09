@@ -1,5 +1,5 @@
-##Corusant Bank App##
 
+## Coruscant Bank App ##
 Star Wars themed bank application that allows you to create and manage accounts.
 
 ## Technologies Used
