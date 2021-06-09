@@ -32,6 +32,7 @@ To-do list:
 
 ## Getting Started
  Clone the repository -> https://github.com/Miloincome/P1.git
+ <br>
  Use the SQLHelp.txt file to use the scripts to set up your database.
  
 
